@@ -21,4 +21,4 @@ pares_de_numeros = [
 
 for par in pares_de_numeros:
     verificar_multiplos(par[0], par[1])
-
+#aqui el for recorre el array para sacar los pares y operarlos
